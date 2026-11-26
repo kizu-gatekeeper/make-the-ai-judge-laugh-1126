@@ -1,6 +1,8 @@
 """Entry for make.fun: Make the AI Judge Laugh.
 
 Writes one office-life joke to entry.txt.
+
+The standup meeting: saving time by spending everyone's.
 """
 import os
 
